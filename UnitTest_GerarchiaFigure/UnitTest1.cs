@@ -6,6 +6,7 @@ namespace UnitTest_GerarchiaFigure
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
